@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola, soy Raúl
 
 ## 🚀 Sobre mí
 Soy un **programador especializado en Python** con experiencia en desarrollar soluciones robustas y eficientes. Tengo un fuerte enfoque en la resolución de problemas y la optimización de procesos a través del código. La tecnología es mi herramienta para construir soluciones que marcan la diferencia.
