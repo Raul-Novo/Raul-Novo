@@ -14,8 +14,5 @@ Soy un **programador especializado en Python** con experiencia en desarrollar so
 - **Herramientas**: Git, Docker, REST APIs
 - **Metodologías**: Desarrollo Ágil, CI/CD
 
-## 🌍 Pronombres
-- **Él/Él** (he/him)
-
 ## 📬 Cómo contactarme
 - **Email**: raul.novo@proton.me
