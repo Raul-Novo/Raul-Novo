@@ -11,7 +11,6 @@ Soy un **programador especializado en Python** con una sólida trayectoria en el
 ## 🔧 Habilidades Técnicas
 - **Lenguaje de Programación**: Python (desarrollo de aplicaciones, automatización de tareas)
 - **Herramientas**: Git (control de versiones), Docker (contenedorización de aplicaciones)
-- **Metodologías**: Desarrollo Ágil (Scrum, Kanban), CI/CD (implementación continua y despliegue)
 
 ## 📬 Cómo contactarme
 - **Email**: raul.novo@proton.me
