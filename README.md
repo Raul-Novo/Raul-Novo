@@ -1,16 +1,19 @@
-# 👋 Hola, soy Raúl
+# 👋 Hello, I'm Raúl!
 
-## 🚀 Sobre mí
-Soy un **programador especializado en Python** con una sólida trayectoria en el desarrollo de soluciones robustas y eficientes. Me apasiona resolver problemas complejos y optimizar procesos a través del código, utilizando Python como herramienta principal para crear soluciones innovadoras que impacten positivamente.
+## 🧑‍🎓 About Me
+I'm a student with a passion for technology and learning. My main interests are Python programming—especially machine learning—and robotics.
 
-## 💡 Intereses
-- **Desarrollo en Python**: Creación de scripts de automatización y aplicaciones completas para mejorar la productividad.
-- **Análisis de Datos**: Uso de Python para extraer, analizar y visualizar información valiosa.
-- **Inteligencia Artificial y Aprendizaje Automático**: Explorando cómo aplicar estas tecnologías en proyectos para añadir valor.
+## 🛠️ Skills
+- **Python**: Comfortable with machine learning and data science
+- **Git & Docker**: Version control and containerization
+- **Robotics & Microcontrollers**: Simple Arduino, ESP32, and other hardware projects
 
-## 🔧 Habilidades Técnicas
-- **Lenguaje de Programación**: Python (desarrollo de aplicaciones, automatización de tareas)
-- **Herramientas**: Git (control de versiones), Docker (contenedorización de aplicaciones)
+## 🚀 Projects
+I’m currently working on my first big project.
 
-## 📬 Cómo contactarme
-- **Email**: raul.novo@proton.me
+## 🤖 Hobbies
+- Building robotic systems and automating things with microcontrollers
+- Experimenting with Arduinos, ESP32s, and similar platforms
+
+## 🌱 Learning Journey
+Actively expanding my knowledge in machine learning and electronics. I’m open to collaboration and new opportunities!
