@@ -1,19 +1,40 @@
-# 👋 Hello, I'm Raúl!
+## 🧠 Raúl Novo Ávila
 
-## 🧑‍🎓 About Me
-I'm a student with a passion for technology and learning. My main interests are Python programming—especially machine learning—and robotics.
+Soy **desarrollador especializado en Python**, con un fuerte interés en la **inteligencia artificial**, el **Machine Learning** y, especialmente, el **Deep Learning**.
+Me gusta comprender a fondo los modelos, optimizar su rendimiento y aplicar técnicas modernas para mejorar su precisión y eficiencia.
+Resido en **España** y busco seguir desarrollando mis habilidades para contribuir a proyectos tecnológicos de alto nivel.
 
-## 🛠️ Skills
-- **Python**: Comfortable with machine learning and data science
-- **Git & Docker**: Version control and containerization
-- **Robotics & Microcontrollers**: Simple Arduino, ESP32, and other hardware projects
+---
 
-## 🚀 Projects
-I’m currently working on my first big project.
+### 🚀 Tecnologías y herramientas que utilizo
 
-## 🤖 Hobbies
-- Building robotic systems and automating things with microcontrollers
-- Experimenting with Arduinos, ESP32s, and similar platforms
+🐍 **Lenguajes:**
+Python | C | C++ (aprendiendo) | Go (aprendiendo)
 
-## 🌱 Learning Journey
-Actively expanding my knowledge in machine learning and electronics. I’m open to collaboration and new opportunities!
+🧠 **Frameworks y librerías:**
+PyTorch | TensorFlow | NumPy | Pandas | OpenCV | Matplotlib | Scikit-learn
+
+🧰 **Entornos y herramientas:**
+Git | Docker | Windows | Linux | VS Code
+
+---
+
+### 📈 Áreas de interés
+
+* Redes neuronales y Deep Learning
+* Aprendizaje automático (Machine Learning)
+* Optimización y entrenamiento de modelos
+* Visualización y análisis de datos
+
+---
+
+### 🌐 Idiomas
+
+* Español — Nativo
+* Inglés — Nivel alto (C1 certificado)
+
+---
+
+### 📫 Contacto
+
+📧 **Correo:** [raul.novo@proton.me](mailto:raul.novo@proton.me)
