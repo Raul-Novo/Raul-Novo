@@ -3,7 +3,6 @@
 Soy **desarrollador especializado en Python**, con un fuerte interés en la **inteligencia artificial**, el **Machine Learning** y, especialmente, el **Deep Learning**.
 Me gusta comprender a fondo los modelos, optimizar su rendimiento y aplicar técnicas modernas para mejorar su precisión y eficiencia.
 Resido en **España** y busco seguir desarrollando mis habilidades para contribuir a proyectos tecnológicos de alto nivel.
-Llevo más de 1 año programando un nuevo sistema operativo en C, cuando sea terminado lo publicaré en el repositorio Flint
 
 ---
 
