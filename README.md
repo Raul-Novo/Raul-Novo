@@ -1,4 +1,4 @@
-## 🧠 Raúl Novo Ávila
+## Raúl Novo Ávila
 
 Soy **desarrollador especializado en Python**, con un fuerte interés en la **inteligencia artificial**, el **Machine Learning** y, especialmente, el **Deep Learning**.
 Me gusta comprender a fondo los modelos, optimizar su rendimiento y aplicar técnicas modernas para mejorar su precisión y eficiencia.
