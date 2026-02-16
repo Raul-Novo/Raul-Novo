@@ -9,7 +9,7 @@ Resido en **España** y busco seguir desarrollando mis habilidades para contribu
 ### 🚀 Tecnologías y herramientas que utilizo
 
 🐍 **Lenguajes:**
-Python | C | HTML/CSS/JS | C++ (aprendiendo) | Go (aprendiendo) | C# (aprendiendo)
+Python | C | HTML/CSS/JS | C++ (aprendiendo) | Go (aprendiendo) | C# (aprendiendo) | SQL (aprendiendo)
 
 🧠 **Frameworks y librerías:**
 PyTorch | TensorFlow | NumPy | Pandas | OpenCV | Matplotlib | Scikit-learn
