@@ -1,40 +1,46 @@
-## Raúl Novo Ávila
+# Raúl Novo Ávila
 
-Soy **desarrollador especializado en Python**, con un fuerte interés en la **inteligencia artificial**, el **Machine Learning** y, especialmente, el **Deep Learning**.
-Me gusta comprender a fondo los modelos, optimizar su rendimiento y aplicar técnicas modernas para mejorar su precisión y eficiencia.
-Resido en **España** y busco seguir desarrollando mis habilidades para contribuir a proyectos tecnológicos de alto nivel.
+Soy estudiante y desarrollador en formación, con interés en la programación, la inteligencia artificial y especialmente el **Deep Learning**.
+
+Me gustan las matemáticas y aplicarlas a la programación.
+
+Vivo en **España** y sigo formándome para mejorar en áreas como desarrollo de software, aprendizaje automático y análisis de datos.
 
 ---
 
-### 🚀 Tecnologías y herramientas que utilizo
+## Tecnologías y conocimientos
 
-🐍 **Lenguajes:**
-Scratch | Python | C | HTML/CSS/JS | C++ (aprendiendo) | Go (aprendiendo) | C# (aprendiendo) | SQL (aprendiendo)
+### Lenguajes
 
-🧠 **Frameworks y librerías:**
+C | HTML | CSS | JavaScript | SQL | Python
+
+### Librerías y herramientas
+
 PyTorch | TensorFlow | NumPy | Pandas | OpenCV | Matplotlib | Scikit-learn
 
-🧰 **Entornos y herramientas:**
+### Entornos y herramientas
+
 Git | Docker | Windows | Linux | VS Code
 
 ---
 
-### 📈 Áreas de interés
+## Áreas de interés
 
-* Redes neuronales y Deep Learning
-* Aprendizaje automático (Machine Learning)
+* Deep Learning
+* Machine Learning
 * Optimización y entrenamiento de modelos
-* Visualización y análisis de datos
+* Análisis y visualización de datos
+* Desarrollo de software
 
 ---
 
-### 🌐 Idiomas
+## Idiomas
 
 * Español — Nativo
-* Inglés — Nivel alto (C1 certificado)
+* Inglés — C1, estudiando para C2
 
 ---
 
-### 📫 Contacto
+## Contacto
 
-📧 **Correo:** [raul.novo@proton.me](mailto:raul.novo@proton.me)
+Correo: [raul.novo@proton.me](mailto:raul.novo@proton.me)
